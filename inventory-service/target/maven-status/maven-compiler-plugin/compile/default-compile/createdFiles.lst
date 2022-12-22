@@ -1,0 +1,5 @@
+com\hommies\inventoryservice\controller\InventoryController.class
+com\hommies\inventoryservice\InventoryServiceApplication.class
+com\hommies\inventoryservice\repository\InventoryRepository.class
+com\hommies\inventoryservice\model\Inventory.class
+com\hommies\inventoryservice\service\InventoryService.class
